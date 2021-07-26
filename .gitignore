@@ -1,0 +1,7 @@
+venv/*
+bist/*
+dist/*
+*.pyc
+__pycache__/
+GUI
+GUI.spec
